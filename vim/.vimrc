@@ -7,3 +7,6 @@ set autoindent
 set noexpandtab
 set tabstop=4
 set shiftwidth=4
+set ignorecase
+set infercase
+set showcmd
