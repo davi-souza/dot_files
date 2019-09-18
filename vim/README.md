@@ -22,3 +22,8 @@ git clone https://github.com/pangloss/vim-javascript.git ~/.vim/bundle/vim-javas
 
 git clone https://github.com/mxw/vim-jsx.git ~/.vim/bundle/vim-jsx
 ```
+
+## Install React (JSX) support
+```bash
+git clone https://github.com/mxw/vim-jsx.git ~/.vim/bundle/vim-jsx
+```
