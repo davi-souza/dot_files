@@ -22,3 +22,7 @@ git clone https://github.com/pangloss/vim-javascript.git ~/.vim/bundle/vim-javas
 
 git clone https://github.com/mxw/vim-jsx.git ~/.vim/bundle/vim-jsx
 ```
+## Install TypeScript suport
+```bash
+git clone https://github.com/leafgarland/typescript-vim.git ~/.vim/bundle/typescript-vim
+```
